@@ -1,0 +1,21 @@
+body{
+    background-image: url(suti_hatter.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-color:indianred;
+}
+h1{
+    text-align: center;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    color: black
+}
+
+img{
+    margin-left: 5cm;
+    margin-top: 2.5cm;
+}
+

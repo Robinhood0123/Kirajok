@@ -1,12 +1,59 @@
-h1 {
+ul {
+    display: inline-block;
+}
+body{
+    background-image: url(hatter_veg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color:indianred;
+}
+div {
+    width: "600";
+    text-align: center;
     color: white;
 }
-p1 {
-    color: white
+a:visited{
+    color: white;
 }
-p{
-    text-align: center;
+a:active{
+    color:white;
 }
-div{
-    text-align: center;
+h1,h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    color: white;
+    font-size: 50px;
 }
+
+table{
+    border-width: 5px;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+th,td{
+    border-width: 5px;
+}
+img {
+    max-inline-size: 100%;
+    block-size: auto;
+  }
+
+  .bottomend {
+    background-color: #808080;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    border-top: black solid 10px;
+  }
+
+  p {
+      color: white;
+      font-size: 30px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }

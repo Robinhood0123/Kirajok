@@ -1,0 +1,21 @@
+body{
+    background-image: url(asd.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-color:indianred;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+
+h2{
+    text-align: center;
+    color: whitesmoke;
+}
+
+img{
+    margin-left: 5cm;
+    margin-top: 2.5cm;
+}
