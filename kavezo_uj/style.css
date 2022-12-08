@@ -2,7 +2,7 @@ ul {
     display: inline-block;
 }
 body{
-    background-image: url(hatter_veg.jpg);
+    background-image: url();
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -17,11 +17,11 @@ a:visited{
     color: white;
 }
 a:active{
-    color:white;
+    color:cyan;
 }
 h1,h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;   
-    color: white;
+    color: cyan;
     font-size: 50px;
 }
 
